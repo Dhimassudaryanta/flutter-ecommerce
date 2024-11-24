@@ -13,12 +13,23 @@ dependencies:
   flutter:
     sdk: flutter
 
+  # Utility Packages
+  http: ^1.2.1
+  intl: ^0.19.0
+  logger: ^2.2.0
+  url_launcher: ^6.2.6
+  flutter_native_splash: ^2.4.0
+  smooth_page_indicator: ^1.1.0
+  connectivity_plus: ^6.0.3
+  lottie: ^3.1.0 # OR RIVE
+
   # icons
   iconsax: ^0.0.8
   cupertino_icons: ^1.0.8
 
-# state management
-get: ^4.6.6
+  # state management
+  get: ^4.6.6
+  get_storage: ^2.1.1
 
 # end of packages
 
